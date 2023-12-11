@@ -3,9 +3,9 @@
 --------------------
 # 자바 콘솔 미니 프로젝트 
 # 개발 환경
-Java - Eclipse 
-Oracle - SQL Developer 
-JDBC 
+- Java - Eclipse 
+- Oracle - SQL Developer 
+- JDBC 
 
 # 맡은 업무 
 - 회원 기능 개발
